@@ -1,0 +1,65 @@
+{
+    "name": "Uniswap Default List",
+    "timestamp": "2021-01-21T23:57:10.982Z",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "patch": 0
+    },
+    "tags": {},
+    "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+    "keywords": [
+      "uniswap",
+      "default"
+    ],
+    "tokens": [
+      {
+        "chainId": 97,
+        "address": "0xEa9ad14C6266c7623b36a8b79825292dd96dEdE2",
+        "name": "MMC",
+        "symbol": "MMC",
+        "decimals": 18,
+        "logoURI": "https://imgnew.zhichikeji.com/zcimgdir/album/file_613b04bd9d578.png"
+      },
+      {
+        "chainId": 97,
+        "address": "0xe82b26b50478C96FaEFfe743548c213459ee28cC",
+        "name": "MMC-OLD",
+        "symbol": "MMC-OLD",
+        "decimals": 18,
+        "logoURI": "https://imgnew.zhichikeji.com/zcimgdir/album/file_613b04bd9d578.png"
+      },
+      {
+        "chainId": 97,
+        "address": "0x4ECFeDB5Ff21a3515b312DfD7E15705Efa076338",
+        "name": "USD",
+        "symbol": "USD",
+        "decimals": 18,
+        "logoURI": "https://imgnew.zhichikeji.com/zcimgdir/album/file_613b04bd9d578.png"
+      },
+      {
+        "chainId": 97,
+        "address": "0xbd4d4b768a7673e59ef6fa03b566646658bec3b6",
+        "name": "USDM",
+        "symbol": "USDM",
+        "decimals": 18,
+        "logoURI": "https://imgnew.zhichikeji.com/zcimgdir/album/file_613b04bd9d578.png"
+      },
+      {
+        "chainId": 97,
+        "address": "0xC4cD2184eCc94c74eB809A55b4dfbA8657165271",
+        "name": "TEST1",
+        "symbol": "TEST1",
+        "decimals": 18,
+        "logoURI": "https://imgnew.zhichikeji.com/zcimgdir/album/file_613b04bd9d578.png"
+      },
+      {
+        "chainId": 97,
+        "address": "0x92A43e2E20eacaB7DaC8eEbFB5e0c9b9AF79D714",
+        "name": "TEST2",
+        "symbol": "TEST2",
+        "decimals": 18,
+        "logoURI": "https://imgnew.zhichikeji.com/zcimgdir/album/file_613b04bd9d578.png"
+      }
+    ]
+  }
